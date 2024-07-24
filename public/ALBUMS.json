@@ -1,0 +1,177 @@
+[
+   
+        {
+        "id": 1,
+        "artist": "Morgan Wallen",
+        "album_name": "One Thing At A Time",
+        "genre": "Country Pop",
+        "date": 2023,
+        "cover_image": "src/assets/morgan-wallen-cover.webp"
+        },
+
+        {
+            "id": 2,
+            "artist": "Set It Off",
+            "album_name": "Cinematics Deluxe Edition",
+            "genre": "Alt Rock",
+            "date": 2012,
+            "cover_image": "src/assets/set-it-off-cover.webp"
+        },
+        {
+            "id": 3,
+            "artist": "Mamma Mia Cast | ABBA",
+            "genre": "Musical",
+            "album_name": "Mamma Mia Soundtrack",
+            "date": 2008,
+            "cover_image": "src/assets/mamma-mia-cover.webp"
+        },
+
+        {
+            "id": 4,
+            "artist": "Three Days Grace",
+            "genre": "Alt Metal",
+            "album_name": "Human",
+            "date": 2015,
+            "cover_image": "src/assets/three-days-grace-cover1.webp"
+        },
+        {
+            "id": 5,
+            "artist": "Three Days Grace",
+            "genre": "Hard Rock",
+            "album_name": "One-X",
+            "date": 2006,
+            "cover_image": "src/assets/three-days-grace-cover2.webp"
+        },
+
+
+        {
+            "id": 6,
+            "artist": "Ed Sheeran",
+            "genre": "Pop",
+            "album_name": "x (Deluxe Edition)",
+            "date": 2014,
+            "cover_image": "src/assets/ed-sheeran-cover.webp"
+            },
+    
+        {
+            "id": 7,
+            "artist": "3 Doors Down",
+            "genre": "Alt Rock",
+            "album_name": "The Better Life",
+            "date": 2000,
+            "cover_image": "src/assets/3-doors-down-cover.webp"
+        },
+        {
+            "id": 8,
+            "artist": "Linkin Park",
+            "genre": "Alt Metal",
+            "album_name": "Living Things",
+            "date": 2012,
+            "cover_image": "src/assets/linkin-park-cover2.webp"
+        },
+
+        {
+            "id": 9,
+            "artist": "Linkin Park",
+            "genre": "Alt Rock",
+            "album_name": "Meteora (Bonus Edition)",
+            "date": 2003,
+            "cover_image": "src/assets/linkin-park-cover1.webp"
+        },
+        {
+            "id": 10,
+            "artist": "The Neighbourhood",
+            "genre": "Alt Indie",
+            "album_name": " HTITNEC",
+            "date": 2018,
+            "cover_image": "src/assets/the-neighbourhood-cover.webp"
+        },
+
+    {
+        "id": 11,
+        "artist": "Night Lovell",
+        "genre": "Rap",
+        "album_name": "Concept Vague",
+        "date": 2014,
+        "cover_image": "src/assets/night-lovell-cover.webp"
+        },
+
+        {
+            "id": 12,
+            "artist": "Melanie Martinez",
+            "genre": "Alt Pop",
+            "album_name": "CryBaby (Deluxe Edition)",
+            "date": 2015,
+            "cover_image": "src/assets/melanie-martinez-cover.webp"
+        },
+        {
+            "id": 13,
+            "artist": "Nico Collins",
+            "genre": "Pop",
+            "album_name": "Hate Me",
+            "date": 2018,
+            "cover_image": "src/assets/nico-collins-cover2.webp"
+        },
+
+        {
+            "id": 14,
+            "artist": "Nico Collins",
+            "genre": "Pop",
+            "album_name": "Head In Her Heart",
+            "date": 2019,
+            "cover_image": "src/assets/nico-collins-cover1.webp"
+        },
+        {
+            "id": 15,
+            "artist": "EDEN",
+            "genre": "Alt Indie",
+            "album_name": "I Think You Think Too Much Of Me",
+            "date": 2016,
+            "cover_image": "src/assets/eden-cover.webp"
+        },
+
+        {
+            "id": 16,
+            "artist": "Austin Snell",
+            "genre": "Country",
+            "album_name": "Muddy Water Rockstar",
+            "date": 2023,
+            "cover_image": "src/assets/austin-snell-cover2.webp"
+            },
+    
+            {
+                "id": 17,
+                "artist": "Austin Snell",
+                "genre": "Country",
+                "album_name": "Excuse The Mess",
+                "date": 2023,
+                "cover_image": "src/assets/austin-snell-cover1.webp"
+            },
+            {
+                "id": 18,
+                "artist": "Catch Your Breathe",
+                "genre": "Rock",
+                "album_name": "Dial Tone",
+                "date": 2023,
+                "cover_image": "src/assets/catch-your-breathe-cover.webp"
+            },
+    
+            {
+                "id": 19,
+                "artist": "Dean Lewis",
+                "genre": "Indie Folk",
+                "album_name": "A Place We Knew",
+                "date": 2019,
+                "cover_image": "src/assets/dean-lewis-cover.webp"
+            },
+            {
+                "id": 20,
+                "artist": "BRKN LOVE",
+                "genre": "Alt Rock",
+                "album_name": "BRKN LOVE",
+                "date": 2020,
+                "cover_image": "src/assets/brkn-love-cover.webp"
+            }
+   
+
+]

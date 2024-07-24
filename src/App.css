@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* default styling for all devices */
+
+body {
+    background-image: url(assets/albums-bg.webp);
+    background-size: cover;
+}
+
+header,
+footer {
+    display: flex;
+    background-color: #1f1f1f;
+    align-items: center;
+    gap: 70px;
+    padding: 10px;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 1.3em;
+    color: white;
+
+    a {
+        text-decoration: none;
+        color: white;
+        transition: all 0.3s ease;
+    }
+
+    a:hover {
+        color: rgb(94, 43, 142);
+        transition: all 0.3s ease;
+    }
+}
+
+
+#albumCont {
+    display: grid;
+    gap: 15px;
+    padding: 20px;
+
+    .album-card {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        border-radius: 9px;
+        padding: 15px;
+        background-color: #141313;
+        box-shadow: 6px 7px 18px -5px rgba(0, 0, 0, 0.75);
+        -webkit-box-shadow: 6px 7px 18px -5px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 6px 7px 18px -5px rgba(0, 0, 0, 0.75);
+        transition: all 0.3s ease;
+        color: white;
+        font-family: "Nunito Sans", sans-serif;
+
+        img {
+
+            width: 30%;
+            height: 60%;
+            border-radius: 20px;
+            object-fit: cover;
+            box-shadow: 6px 7px 18px -5px rgba(0, 0, 0, 0.75);
+            -webkit-box-shadow: 6px 7px 18px -5px rgba(0, 0, 0, 0.75);
+            -moz-box-shadow: 6px 7px 18px -5px rgba(0, 0, 0, 0.75);
+        }
+
+        #listen-now{
+            font-weight: bold;
+            font-size: 1.4em;
+            padding: 7px;
+            border-radius: 9px;
+            color: antiquewhite;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        #listen-now:hover {
+            color: rgb(94, 43, 142);
+            transition: all 0.3s ease;
+        }
+    }
+}
+
+/* mobile styling */
+@media screen and (min-width: 400px) {
+    #albumCont {
+        grid-template-columns: 1fr;
+
+        .album-card {
+
+            img {
+                width: 50%;
+                height: 200px;
+            }
+        }
+    }
+}
+
+/* tablet styling */
+@media screen and (min-width: 768px) {
+    #albumCont {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    /* turns off the hover for mobile users */
+    .album-card:hover {
+        scale: 1.0;
+    }
+}
+
+/* laptop/desktop styling */
+@media screen and (min-width: 1080px) {
+
+
+    #albumCont {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .album-card {
+
+        .album-details {
+            color: antiquewhite;
+            font-family: "Nunito Sans", sans-serif;
+            margin: 10px 0px;
+            flex-direction: column;
+
+            h3,
+            h4 {
+                font-size: 15px;
+            }
+
+        }
+    }
+
+    .album-card:hover {
+        scale: 1.1;
+    }
+}
