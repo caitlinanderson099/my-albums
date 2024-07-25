@@ -9,7 +9,7 @@
 /* default styling for all devices */
 
 body {
-    background-image: url(assets/albums-bg.webp);
+    background-image: url(/assets/albums-bg.webp);
     background-size: cover;
 }
 

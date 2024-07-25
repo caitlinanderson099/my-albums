@@ -6,7 +6,7 @@
         "album_name": "One Thing At A Time",
         "genre": "Country Pop",
         "date": 2023,
-        "cover_image": "src/assets/morgan-wallen-cover.webp"
+        "cover_image": "/assets/morgan-wallen-cover.webp"
         },
 
         {
@@ -15,7 +15,7 @@
             "album_name": "Cinematics Deluxe Edition",
             "genre": "Alt Rock",
             "date": 2012,
-            "cover_image": "src/assets/set-it-off-cover.webp"
+            "cover_image": "/assets/set-it-off-cover.webp"
         },
         {
             "id": 3,
@@ -23,7 +23,7 @@
             "genre": "Musical",
             "album_name": "Mamma Mia Soundtrack",
             "date": 2008,
-            "cover_image": "src/assets/mamma-mia-cover.webp"
+            "cover_image": "/assets/mamma-mia-cover.webp"
         },
 
         {
@@ -32,7 +32,7 @@
             "genre": "Alt Metal",
             "album_name": "Human",
             "date": 2015,
-            "cover_image": "src/assets/three-days-grace-cover1.webp"
+            "cover_image": "/assets/three-days-grace-cover1.webp"
         },
         {
             "id": 5,
@@ -40,7 +40,7 @@
             "genre": "Hard Rock",
             "album_name": "One-X",
             "date": 2006,
-            "cover_image": "src/assets/three-days-grace-cover2.webp"
+            "cover_image": "/assets/three-days-grace-cover2.webp"
         },
 
 
@@ -50,7 +50,7 @@
             "genre": "Pop",
             "album_name": "x (Deluxe Edition)",
             "date": 2014,
-            "cover_image": "src/assets/ed-sheeran-cover.webp"
+            "cover_image": "/assets/ed-sheeran-cover.webp"
             },
     
         {
@@ -59,7 +59,7 @@
             "genre": "Alt Rock",
             "album_name": "The Better Life",
             "date": 2000,
-            "cover_image": "src/assets/3-doors-down-cover.webp"
+            "cover_image": "/assets/3-doors-down-cover.webp"
         },
         {
             "id": 8,
@@ -67,7 +67,7 @@
             "genre": "Alt Metal",
             "album_name": "Living Things",
             "date": 2012,
-            "cover_image": "src/assets/linkin-park-cover2.webp"
+            "cover_image": "/assets/linkin-park-cover2.webp"
         },
 
         {
@@ -76,7 +76,7 @@
             "genre": "Alt Rock",
             "album_name": "Meteora (Bonus Edition)",
             "date": 2003,
-            "cover_image": "src/assets/linkin-park-cover1.webp"
+            "cover_image": "/assets/linkin-park-cover1.webp"
         },
         {
             "id": 10,
@@ -84,7 +84,7 @@
             "genre": "Alt Indie",
             "album_name": " HTITNEC",
             "date": 2018,
-            "cover_image": "src/assets/the-neighbourhood-cover.webp"
+            "cover_image": "/assets/the-neighbourhood-cover.webp"
         },
 
     {
@@ -93,7 +93,7 @@
         "genre": "Rap",
         "album_name": "Concept Vague",
         "date": 2014,
-        "cover_image": "src/assets/night-lovell-cover.webp"
+        "cover_image": "/assets/night-lovell-cover.webp"
         },
 
         {
@@ -102,7 +102,7 @@
             "genre": "Alt Pop",
             "album_name": "CryBaby (Deluxe Edition)",
             "date": 2015,
-            "cover_image": "src/assets/melanie-martinez-cover.webp"
+            "cover_image": "/assets/melanie-martinez-cover.webp"
         },
         {
             "id": 13,
@@ -110,7 +110,7 @@
             "genre": "Pop",
             "album_name": "Hate Me",
             "date": 2018,
-            "cover_image": "src/assets/nico-collins-cover2.webp"
+            "cover_image": "/assets/nico-collins-cover2.webp"
         },
 
         {
@@ -119,7 +119,7 @@
             "genre": "Pop",
             "album_name": "Head In Her Heart",
             "date": 2019,
-            "cover_image": "src/assets/nico-collins-cover1.webp"
+            "cover_image": "/assets/nico-collins-cover1.webp"
         },
         {
             "id": 15,
@@ -127,7 +127,7 @@
             "genre": "Alt Indie",
             "album_name": "I Think You Think Too Much Of Me",
             "date": 2016,
-            "cover_image": "src/assets/eden-cover.webp"
+            "cover_image": "/assets/eden-cover.webp"
         },
 
         {
@@ -136,7 +136,7 @@
             "genre": "Country",
             "album_name": "Muddy Water Rockstar",
             "date": 2023,
-            "cover_image": "src/assets/austin-snell-cover2.webp"
+            "cover_image": "/assets/austin-snell-cover2.webp"
             },
     
             {
@@ -145,7 +145,7 @@
                 "genre": "Country",
                 "album_name": "Excuse The Mess",
                 "date": 2023,
-                "cover_image": "src/assets/austin-snell-cover1.webp"
+                "cover_image": "/assets/austin-snell-cover1.webp"
             },
             {
                 "id": 18,
@@ -153,7 +153,7 @@
                 "genre": "Rock",
                 "album_name": "Dial Tone",
                 "date": 2023,
-                "cover_image": "src/assets/catch-your-breathe-cover.webp"
+                "cover_image": "/assets/catch-your-breathe-cover.webp"
             },
     
             {
@@ -162,7 +162,7 @@
                 "genre": "Indie Folk",
                 "album_name": "A Place We Knew",
                 "date": 2019,
-                "cover_image": "src/assets/dean-lewis-cover.webp"
+                "cover_image": "/assets/dean-lewis-cover.webp"
             },
             {
                 "id": 20,
@@ -170,7 +170,7 @@
                 "genre": "Alt Rock",
                 "album_name": "BRKN LOVE",
                 "date": 2020,
-                "cover_image": "src/assets/brkn-love-cover.webp"
+                "cover_image": "/assets/brkn-love-cover.webp"
             }
    
 
